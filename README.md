@@ -4,7 +4,7 @@
 
 ## 目录
 
-- [半同步半异步线程池](threadpool/README.md)
+- [半同步半异步线程池](threadpool/)
 
 ## TODO
 
